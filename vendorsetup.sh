@@ -1,3 +1,3 @@
-add_lunch_combo lineage_j4primelte-user
-add_lunch_combo lineage_j4primelte-userdebug
-add_lunch_combo lineage_j4primelte-eng
+add_lunch_combo carbon_j4primelte-user
+add_lunch_combo carbon_j4primelte-userdebug
+add_lunch_combo carbon_j4primelte-eng
