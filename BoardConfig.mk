@@ -101,5 +101,8 @@ PRODUCT_USE_VNDK_OVERRIDE := false
 PRODUCT_SHIPPING_API_LEVEL := 27
 BOARD_VNDK_RUNTIME_DISABLE := true
 
+# MKE2FS
+TARGET_USES_MKE2FS := true
+
 # Inherit from the proprietary version
 -include vendor/samsung/j4primelte/BoardConfigVendor.mk
